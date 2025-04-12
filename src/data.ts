@@ -328,5 +328,125 @@ export const apis: API[] = [
     tags: ['Payments', 'Transfer', 'International'],
     country: 'UK',
     type: 'REST'
-  }
+  },
+  {
+    id: '26',
+    name: 'Razorpay',
+    description: 'Indian payment gateway solution for online businesses',
+    category: 'Payment',
+    pricing: 'Freemium',
+    url: 'https://razorpay.com/docs/api/',
+    imageUrl: 'https://images.unsplash.com/photo-1581090700227-1e8b9436f33b?auto=format&fit=crop&q=80&w=300',
+    tags: ['Payments', 'India', 'Gateway'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '27',
+    name: 'NPCI UPI API',
+    description: 'Unified Payments Interface API by the National Payments Corporation of India',
+    category: 'Payment',
+    pricing: 'Government',
+    url: 'https://www.npci.org.in/what-we-do/upi/product-overview',
+    imageUrl: 'https://images.unsplash.com/photo-1625588824348-b0e267879f35?auto=format&fit=crop&q=80&w=300',
+    tags: ['UPI', 'Banking', 'Government'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '28',
+    name: 'Aadhaar Authentication API',
+    description: 'Government-backed identity authentication API',
+    category: 'Authentication',
+    pricing: 'Government',
+    url: 'https://uidai.gov.in/',
+    imageUrl: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=300',
+    tags: ['Identity', 'India', 'eKYC'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '29',
+    name: 'DigiLocker API',
+    description: 'Access and store digital government-issued documents securely',
+    category: 'Storage',
+    pricing: 'Free',
+    url: 'https://api.digilocker.gov.in/',
+    imageUrl: 'https://images.unsplash.com/photo-1623939289614-b6f659f5df3f?auto=format&fit=crop&q=80&w=300',
+    tags: ['Documents', 'Government', 'India'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '30',
+    name: 'IRCTC Railways API',
+    description: 'Indian Railway API for PNR, schedule, and fare inquiry',
+    category: 'Travel',
+    pricing: 'Freemium',
+    url: 'https://rapidapi.com/axisbits-axisbits-default/api/irctc1/',
+    imageUrl: 'https://images.unsplash.com/photo-1606813903257-fac5a84e26ed?auto=format&fit=crop&q=80&w=300',
+    tags: ['Transport', 'Railway', 'India'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '31',
+    name: 'Zomato API',
+    description: 'Restaurant search and food discovery API',
+    category: 'Food & Drink',
+    pricing: 'Freemium',
+    url: 'https://developers.zomato.com/',
+    imageUrl: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=300',
+    tags: ['Food', 'Restaurants', 'Search'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '32',
+    name: 'Flipkart Affiliate API',
+    description: 'Fetch product info and promote via affiliate links',
+    category: 'E-commerce',
+    pricing: 'Free',
+    url: 'https://affiliate.flipkart.com/api-docs',
+    imageUrl: 'https://images.unsplash.com/photo-1515162305284-1f1e02e70fa0?auto=format&fit=crop&q=80&w=300',
+    tags: ['E-commerce', 'Affiliate', 'Retail'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '33',
+    name: 'AirVisual API',
+    description: 'Global and Indian air pollution & weather data',
+    category: 'Environment',
+    pricing: 'Freemium',
+    url: 'https://www.iqair.com/world-air-quality-api',
+    imageUrl: 'https://images.unsplash.com/photo-1533667586627-9d5c5c4d0c64?auto=format&fit=crop&q=80&w=300',
+    tags: ['Air Quality', 'Pollution', 'Climate'],
+    country: 'Global',
+    type: 'REST'
+  },
+  {
+    id: '34',
+    name: 'Bharat BillPay API',
+    description: 'Utility bill payments via NPCI’s Bharat Bill Payment System',
+    category: 'Payment',
+    pricing: 'Government',
+    url: 'https://www.npci.org.in/what-we-do/bharat-billpay',
+    imageUrl: 'https://images.unsplash.com/photo-1588691637382-b6b5c2e5d701?auto=format&fit=crop&q=80&w=300',
+    tags: ['Payments', 'Bills', 'Utility'],
+    country: 'India',
+    type: 'REST'
+  },
+  {
+    id: '35',
+    name: 'PayU India API',
+    description: 'Online payment gateway solutions in India',
+    category: 'Payment',
+    pricing: 'Freemium',
+    url: 'https://developer.payu.in/',
+    imageUrl: 'https://images.unsplash.com/photo-1585408481065-65161c74432f?auto=format&fit=crop&q=80&w=300',
+    tags: ['Payment', 'Gateway', 'India'],
+    country: 'India',
+    type: 'REST'
+  }  
 ];
