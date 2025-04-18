@@ -36,7 +36,7 @@ export const apis: API[] = [
     category: 'Authentication',
     pricing: 'Freemium',
     url: 'https://supabase.com',
-    imageUrl: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2Fd39671f1c9a6%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=500&q=90',
     tags: ['Database', 'Auth', 'Storage'],
     country: 'USA',
     type: 'REST'
@@ -48,7 +48,7 @@ export const apis: API[] = [
     category: 'Payment',
     pricing: 'Paid',
     url: 'https://stripe.com',
-    imageUrl: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg?w=300&q=80&fm=webp',
     tags: ['Payments', 'Finance'],
     country: 'USA',
     type: 'REST'
@@ -60,7 +60,7 @@ export const apis: API[] = [
     category: 'AI & ML',
     pricing: 'Paid',
     url: 'https://openai.com',
-    imageUrl: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://images.ctfassets.net/kftzwdyauwt9/1cFVP33AOU26mMJmCGDo1S/0029938b700b84cd7caed52124ed508d/OAI_BrandPage_11.png?w=300&q=80&fm=webp',
     tags: ['AI', 'Machine Learning'],
     country: 'USA',
     type: 'REST'
@@ -72,7 +72,7 @@ export const apis: API[] = [
     category: 'Authentication',
     pricing: 'Freemium',
     url: 'https://auth0.com',
-    imageUrl: 'https://images.unsplash.com/photo-1555066931-bf19f8fd1085?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://images.ctfassets.net/23aumh6u8s0i/20TfIDa2n6V6BugtObHk9L/1a46e349c381351e50ccffb084fa6ef0/Auth0_AI_technical.png?auto=format&fit=crop&q=80&w=300',
     tags: ['Auth', 'Security', 'SSO'],
     country: 'Argentina',
     type: 'REST'
@@ -84,7 +84,7 @@ export const apis: API[] = [
     category: 'Storage',
     pricing: 'Paid',
     url: 'https://aws.amazon.com/s3',
-    imageUrl: 'https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?auto=format&fit=crop&q=80&w=300',
     tags: ['Cloud', 'Storage', 'AWS'],
     country: 'USA',
     type: 'REST'
@@ -96,7 +96,7 @@ export const apis: API[] = [
     category: 'Communication',
     pricing: 'Paid',
     url: 'https://twilio.com',
-    imageUrl: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png?auto=format&fit=crop&q=80&w=300',
     tags: ['SMS', 'Voice', 'Messaging'],
     country: 'USA',
     type: 'REST'
@@ -108,7 +108,7 @@ export const apis: API[] = [
     category: 'Payment',
     pricing: 'Paid',
     url: 'https://paypal.com',
-    imageUrl: 'https://images.unsplash.com/photo-1556742111-a301076d9d18?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_266x142.png?auto=format&fit=crop&q=80&w=300',
     tags: ['Payments', 'Finance', 'E-commerce'],
     country: 'USA',
     type: 'REST'
@@ -120,7 +120,7 @@ export const apis: API[] = [
     category: 'Storage',
     pricing: 'Paid',
     url: 'https://cloud.google.com/storage',
-    imageUrl: 'https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg?auto=format&fit=crop&q=80&w=300',
     tags: ['Cloud', 'Storage', 'Google'],
     country: 'USA',
     type: 'REST'
@@ -144,7 +144,7 @@ export const apis: API[] = [
     category: 'Communication',
     pricing: 'Freemium',
     url: 'https://sendgrid.com',
-    imageUrl: 'https://images.unsplash.com/photo-1526554850534-7c78330d5f90?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://sendgrid.com/content/dam/sendgrid/legacy/themes/sgdotcom/pages/resource/brand/img/SG_Twilio_Lockup_RGBx1.png?w=300&h=auto&fit=crop&q=80',
     tags: ['Email', 'Marketing', 'Communication'],
     country: 'USA',
     type: 'REST'
@@ -156,7 +156,7 @@ export const apis: API[] = [
     category: 'Storage',
     pricing: 'Free',
     url: 'https://docs.github.com/en/graphql',
-    imageUrl: 'https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png?w=300&h=auto&fit=crop&q=80',
     tags: ['Version Control', 'Developer Tools'],
     country: 'USA',
     type: 'GraphQL'
@@ -168,7 +168,7 @@ export const apis: API[] = [
     category: 'Communication',
     pricing: 'Freemium',
     url: 'https://pusher.com',
-    imageUrl: 'https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg',
+    imageUrl: 'https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg?w=300&h=auto&fit=crop&q=80',
     tags: ['Real-time', 'WebSocket', 'Messaging'],
     country: 'UK',
     type: 'WebSocket'
@@ -180,7 +180,7 @@ export const apis: API[] = [
     category: 'Payment',
     pricing: 'Paid',
     url: 'https://www.adyen.com',
-    imageUrl: 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiYWR5ZW5cL2ZpbGVcL1BrU051WngzanVnamZZZ0FZR0JrLnN2ZyJ9:adyen:qWZTSS0KDkayjczU8jwAJNPlbHzmxs1Wq_hYu7QR-Q4',
     tags: ['Payments', 'Finance', 'Enterprise'],
     country: 'Netherlands',
     type: 'REST'
@@ -192,7 +192,7 @@ export const apis: API[] = [
     category: 'AI & ML',
     pricing: 'Paid',
     url: 'https://azure.microsoft.com/services/cognitive-services',
-    imageUrl: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/180px-Microsoft_Azure.svg.png',
     tags: ['AI', 'Machine Learning', 'Cloud'],
     country: 'USA',
     type: 'REST'
@@ -204,7 +204,7 @@ export const apis: API[] = [
     category: 'Authentication',
     pricing: 'Freemium',
     url: 'https://firebase.google.com/products/auth',
-    imageUrl: 'https://images.unsplash.com/photo-1555952517-2e8e729e0b44?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://www.gstatic.com/devrel-devsite/prod/v4fc9d85e6ea95f79bd6a196e3172f0f1dad2b944d8938b8bba07317f8184a4c6/firebase/images/lockup.svg',
     tags: ['Auth', 'Google', 'Mobile'],
     country: 'USA',
     type: 'REST'
