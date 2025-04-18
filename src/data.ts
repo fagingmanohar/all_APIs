@@ -168,7 +168,7 @@ export const apis: API[] = [
     category: 'Communication',
     pricing: 'Freemium',
     url: 'https://pusher.com',
-    imageUrl: 'https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&q=80&w=300',
+    imageUrl: 'https://pusher.com/static/pusher-logo-0576fd4af5c38706f96f632235f3124a.svg',
     tags: ['Real-time', 'WebSocket', 'Messaging'],
     country: 'UK',
     type: 'WebSocket'
